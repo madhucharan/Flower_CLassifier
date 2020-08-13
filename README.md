@@ -3,11 +3,11 @@ Using CNN and Transfer Learning with pretrained VGG modelt o classify flowers fr
 
 The dataset is publicly available [here](https://www.kaggle.com/alxmamaev/flowers-recognition)
 
-Requirements:
+## Requirements:
 
--The model was trained on GPU.So running on CPU may take time.
--
--Change the Directory of the dataset to path it is downloaded.
--
+**The model was trained on GPU.So running on CPU may take time.**
+
+**Change the Directory of the dataset to path it is downloaded.**
+
 
 
