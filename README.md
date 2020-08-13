@@ -1,5 +1,5 @@
 # Flower_CLassifier
-Using CNN and Transfer Learning with pretrained VGG modelt o classify flowers from the publicly available Data set from Kaggle. 
+Using CNN and Transfer Learning with pretrained VGG model to classify 5 different species of flowers from the publicly available Data set from Kaggle. 
 
 The dataset is publicly available [here](https://www.kaggle.com/alxmamaev/flowers-recognition)
 
